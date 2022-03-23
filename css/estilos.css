@@ -1,0 +1,90 @@
+.barra{
+    background: rgb(250, 240, 151) !important;
+}
+
+.letra{
+    color: black !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 23px !important;
+}
+
+.bloquetitulo1{
+    background: rgb(250, 240, 151) !important;
+    text-align: center !important;
+    font-size: 30px !important;
+    padding-top: 30px !important; 
+}
+
+.parrafo1{
+    background: rgb(250, 240, 151) !important;
+    text-align: center !important;
+    font-size: 20px !important;
+    padding-top: 30px !important;
+}
+
+.imagen5{
+    background: rgb(250, 240, 151) !important;
+    text-align: center;
+    padding-block: 60px !important;
+    padding-top: 40px !important;
+    margin-right: -50px !important;   
+}
+
+.video1{
+    background: white !important;
+    text-align: center !important; 
+    padding-top: 50px !important;
+}
+
+.parrafo2{
+    background: white !important;
+    text-align: center !important;
+    font-size: 20px !important;
+    padding-block: 50px !important;
+    padding-top: 50px !important;
+}
+
+.padre{
+    background: rgb(250, 240, 151);
+    width: 100%;
+    height: 400px; 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.padre > div{
+    text-align: center;
+    align-items: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 360px;
+    height: 210x;
+    border: 2px black solid;
+    padding: 15px 20px;
+}
+
+.formulario{
+    font-size: 18px;
+}
+
+.iconosredes{
+    text-align: center;
+    background-color: rgb(250, 240, 151);
+}
+
+.ajusteicono{
+    margin: 50px 35px;
+    display: inline-flex; 
+}
+
+.textofooter{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    background-color: white;
+    height: 50px;
+    padding-top: 0px;
+    padding-block: 0px;
+}
